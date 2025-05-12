@@ -1,3 +1,29 @@
+Project Overview
+This project presents  three core pages:
+
+Home Page (index.html)
+
+Login Page (login.html)
+
+Registration Page (register.html)  
+
+/e-commerce-ui  
+├── index.html         # Home Page  
+├── login.html         # Login Page  
+├── register.html      # Registration Page  
+├── style.css          # Shared base styles  
+├── login.css          # Styles specific to the Login page  
+├── register.css       # Styles specific to the Register page  
+├── script.js          # JavaScript for form interactions and validation  
+└── images/            # Backgrounds and icons  
+
+Technologies Used  
+HTML5 – For semantic structure and content layout
+
+CSS3 – For responsive and visually appealing styling (with page-specific stylesheets)
+
+JavaScript – For interactivity and form validation
+
 
 output:  
 home page-  
