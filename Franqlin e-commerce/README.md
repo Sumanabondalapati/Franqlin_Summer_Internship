@@ -7,7 +7,7 @@ Login Page (login.html)
 
 Registration Page (register.html)  
 
-/e-commerce-ui  
+E-commerce-ui  
 ├── index.html         # Home Page  
 ├── login.html         # Login Page  
 ├── register.html      # Registration Page  
